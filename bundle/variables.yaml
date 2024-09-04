@@ -1,0 +1,4 @@
+variables:
+- team: cbcauthen-casc-workshop-dev
+- admin-user: CBCauthen-admin
+- manager-user: CBCauthen
